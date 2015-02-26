@@ -1,0 +1,12 @@
+# Site settings
+title: Guía de compra para relojes inteligentes
+email: hola@comprarelojinteligente.es
+description:
+  En esta guía de compras podrás encontrar información de utilidad para decidir
+  que reloj inteligente comprar. Comparativas, noticias, análisis,  y lugares de compra con los mejores precios.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://comprarelojinteligente.es" # the base hostname & protocol for your site
+twitter_username: relojintel
+
+# Build settings
+markdown: kramdown
