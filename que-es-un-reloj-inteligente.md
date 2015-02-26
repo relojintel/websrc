@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Qué es un reloj inteligente
 permalink: /que-es-un-reloj-inteligente/
@@ -16,6 +16,6 @@ Estos relojes son dispositivos computerizados que se llevan en la muñeca y pued
  como lo venimos haciendo en los telefonos inteligentes. La comunicación bluetooth con el teléfono les permite mostrar
  llamadas entrantes o perdidas, mensajes, citas del calendario, el tiempo, fotos, mapas, etc. Las posibilidades son infinitas.
 
-Los relojes inteligentes pueden incluir, entre otros, camara, acelerometro, termometro, altimetro, barometro, brujula y GPS.
+Los relojes inteligentes pueden incluir, entre otros, camara, acelerómetro, termómetro, altímetro, barómetro, brújula y GPS.
 
 ![Motorola 360](/img/Motorola360/moto_1.jpg)
