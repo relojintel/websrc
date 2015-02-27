@@ -9,7 +9,7 @@ con capacidad para comunicarse con computadoras. Pero lo que nos ocupa en esta g
 que desde hace poco tiempo están revolucionando el mercado de una forma similar a lo que ocurrió con los teléfonos a raíz de la
 salida al mercado del primer iPhone.
 
-![Pebble](/img/Pebble/pebble_1_thumb.jpg)
+![Pebble](/img/Pebble/pebble-1-thumb.jpg)
 
 Estos relojes son dispositivos computerizados que se llevan en la muñeca y pueden ejecutar muchas tareas. Disponen de pantalla táctil,
  a color o en blanco y negro, lo que permite manejarlos de forma muy intuitiva. Se les puede instalar aplicaciones (apps) tal y
@@ -18,5 +18,5 @@ Estos relojes son dispositivos computerizados que se llevan en la muñeca y pued
 
 Los relojes inteligentes pueden incluir, entre otros, cámara, acelerómetro, termómetro, altímetro, barómetro, brújula y GPS.
 
-![Motorola 360](/img/Motorola360/moto_1.jpg)
+![Motorola 360](/img/Motorola360/moto-1.jpg)
 
