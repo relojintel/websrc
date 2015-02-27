@@ -17,8 +17,8 @@ y una correa de acero o cuero. Ambas características le otorgan un aspecto prem
 encontrar en dos acabados, acero brillante o mate negro. Tanto la correa de acero, como la de cuero, vienen incluidas
  en el producto y se pueden intercambiar fácilmente.
 
-![Pebble](/img/Pebble/pebble_1_thumb.jpg)
-![Pebble](/img/Pebble/pebble_2_thumb.jpg)
+![Pebble](/img/Pebble/pebble-1-thumb.jpg)
+![Pebble](/img/Pebble/pebble-2-thumb.jpg)
 
  La pantalla del Pebble Steel tiene protección Corning Gorilla Glass 2 contra ralladuras, tiene iluminación LED y es de tinta
  electrónica. Es muy resistente a la suciedad y a las huellas dactilares. Al ser de tinta electrónica solo puede mostrar
@@ -33,7 +33,7 @@ Pebble Appstore
 Una ventaja importante con respecto a otros relojes es la calidad y cantidad de las aplicaciones de terceros. Hay publicadas
 unas 1000, mientras que otros relojes, como el Sony Smartwatch 2, solo tienen 300.
 
-![Pebble](/img/Pebble/pebble_appstore.jpg)
+![Pebble](/img/Pebble/pebble-appstore.jpg)
 
 La Pebble Appstore es muy parecida a la Apple Appstore o a Google Play. Las aplicaciones están organizadas por categorías como
 herramientas, notificaciones, control remoto, ejercicio físico y juegos. Es una appstore bien organizada, fácil de navegar
