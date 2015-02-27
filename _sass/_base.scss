@@ -170,7 +170,15 @@ pre {
     }
 }
 
+.content-column {
+    max-width: 700px;
+    float:left;
+}
 
+.right-column {
+    float: left;
+    margin-left: 3em;
+}
 
 /**
  * Clearfix
