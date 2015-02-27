@@ -1,28 +1,27 @@
 <!DOCTYPE html>
 <html lang="es">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
+{% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        <iframe src="http://rcm-eu.amazon-adsystem.com/e/cm?t=guiadecomprap-21&o=30&p=13&l=ez&f=ifr&f=ifr" width="468" height="60" scrolling="no" marginwidth="0" marginheight="0" border="0" frameborder="0" style="border:none;"></iframe>
-        <div class="content-column">
-          {{ content }}
-        </div>
-        <div class="right-column">
-          <a class="twitter-timeline" href="https://twitter.com/relojintel" data-widget-id="571323719180890112">Tweets por el @relojintel.</a>
-          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-        </div>
-      </div>
-      </div>
+<div class="page-content">
+  <div class="wrapper">
+    <iframe src="http://rcm-eu.amazon-adsystem.com/e/cm?t=guiadecomprap-21&o=30&p=13&l=ez&f=ifr&f=ifr" width="468" height="60" style="border:none;"></iframe>
+    <div class="content-column">
+      {{ content }}
     </div>
+    <div class="right-column">
+      <a class="twitter-timeline" href="https://twitter.com/relojintel" data-widget-id="571323719180890112">Tweets por el @relojintel.</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+  </div>
+</div>
 
-    {% include footer.html %}
+{% include footer.html %}
 
-  </body>
+</body>
 
 </html>
