@@ -53,7 +53,7 @@ Su diseño es muy bonito, superando con creces a otros relojes con Android Wear 
 
 ![Asus ZenWatch](https://lh5.ggpht.com/A13LwK7155zT9R5yNbq__6qLV8ky1sj7Oi-UW2tMbcnkQb37wl0WXF1m8guwlULxCSvs=h310-rw)
 
-No puede competir con el Sony Smartwatch 3 o LG G Watch R en términos de tiempo de vida de la batería y solo se justifica su compra su realmente te encanta su diseño. Si no estás enamorado de él, otros relojes de esta lista serán mejor opción.
+No puede competir con el Sony Smartwatch 3 o LG G Watch R en términos de tiempo de vida de la batería y solo se justifica su compra si realmente te encanta su diseño. Si no estás enamorado de él, otros relojes de esta lista serán mejor opción.
 
 ** Este reloj no esta a la venta en España por el momento.
 
