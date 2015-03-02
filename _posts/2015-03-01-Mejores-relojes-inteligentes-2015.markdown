@@ -51,7 +51,7 @@ El ZenWatch es un reloj rectangular con Android Wear con un acabado muy elegante
 
 Su diseño es muy bonito, superando con creces a otros relojes con Android Wear que llevan más tiempo en el mercado, a excepción, quizás, del Moto 360.
 
-![Asus ZenWatch](/img/AsusZenWatch/Asus-ZenWatch-1.jpg)
+![Asus ZenWatch](https://lh5.ggpht.com/A13LwK7155zT9R5yNbq__6qLV8ky1sj7Oi-UW2tMbcnkQb37wl0WXF1m8guwlULxCSvs=h310-rw)
 
 No puede competir con el Sony Smartwatch 3 o LG G Watch R en términos de tiempo de vida de la batería y solo se justifica su compra su realmente te encanta su diseño. Si no estás enamorado de él, otros relojes de esta lista serán mejor opción.
 
